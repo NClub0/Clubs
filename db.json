@@ -1,8 +1,11 @@
 {
   "clubs": [
-    { "id": 1, "name": "Urban K Beach", "address": "Av. de Brasília, 1200-109 Lisboa", "description": "great club, incredible view."},
-    { "id": 2, "name": "Place", "address": "N5A 450, Rua Dom Luís I, 1200 Lisboa", "description": "xxxx"},
-    { "id": 3, "name": "Main", "address": " Av. 24 de Julho 68, 1200-869 Lisboa", "description": "cool club, environment 5" }
+    { "id": 1, "name": "Urban K Beach", "address": "Av. de Brasília, 1200-109 Lisboa", "description": "great club, incredible view.",
+    "image":"http://www.insidelisbon.com/wp-content/uploads/2015/05/IL_nightlife_dance_urban-beach1.jpg"},
+    { "id": 2, "name": "Place", "address": "N5A 450, Rua Dom Luís I, 1200 Lisboa", "description": "xxxx", 
+     "image":"https://media-cdn.tripadvisor.com/media/photo-s/0b/ac/57/37/2nd-floor-view.jpg"},
+    { "id": 3, "name": "Main", "address": " Av. 24 de Julho 68, 1200-869 Lisboa", "description": "cool club, environment 5", 
+     "image":"https://media-cdn.tripadvisor.com/media/photo-o/06/a2/43/e9/main.jpg" }
   ],
   "bars": [
     { "id": 1, "name": "Foxtrot", "postId": 1 },
