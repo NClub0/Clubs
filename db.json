@@ -8,6 +8,9 @@
     { "id": 1, "name": "Foxtrot", "postId": 1 },
     { "id": 2, "name": "MezCais", "postId": 1 }
   ],
+  "profile": {
+    "name": "typicode"
+  }
  
   
 }
