@@ -1,50 +1,137 @@
 {
-  "clubs": [
-    { "id": 1, "name": "Urban K Beach", "address": "Av. de Brasília, 1200-109 Lisboa", "description": "great club, incredible view.",
-    "image":"http://www.insidelisbon.com/wp-content/uploads/2015/05/IL_nightlife_dance_urban-beach1.jpg"},
-    { "id": 2, "name": "Place", "address": "N5A 450, Rua Dom Luís I, 1200 Lisboa", "description": "xxxx", 
-     "image":"https://media-cdn.tripadvisor.com/media/photo-s/0b/ac/57/37/2nd-floor-view.jpg"},
-    { "id": 3, "name": "Main", "address": " Av. 24 de Julho 68, 1200-869 Lisboa", "description": "cool club, environment 5", 
-     "image":"https://media-cdn.tripadvisor.com/media/photo-o/06/a2/43/e9/main.jpg" },
-    { "id": 4, "name": "Lust in Rio", "address": " Cais Sodré, 1200-109 Lisboa", "description": "oh yeaaah come", 
-     "image":"https://4.bp.blogspot.com/-ERePyFjB7FE/WKxlZ-ovvII/AAAAAAADKrs/9l3dqVdBkDwXwS92zHy_ocLQ0KMYqADyACLcB/s1600/IMG_9930.JPG" },
-    { "id": 5, "name": "Bosq", "address": " R. Rodrigues de Faria 103, 1300-501 Lisboa", "description": "very very nice", 
-     "image":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTm71ic3pEfzhIRN8cHR2Sw9Bfs__l0WoNVV1AjHmrRiDitVg50luhm1A" },
-    { "id": 6, "name": "Lux Frágil", "address": " Av. Infante D. Henrique, Armazém A, Cais da Pedra a Sta Apolónia, 1950-376 Lisboa", "description": "hard to get in.", 
-     "image":"https://1.bp.blogspot.com/-eusrjfmasBc/V0SxWNylGtI/AAAAAAAAJ7I/6XgaIvpYYwQTmcxu7h8rdx9bc6T4OquUQCLcB/s1600/lux%2B4.jpg" },
-    { "id": 7, "name": "Urban K Beach", "address": "Av. de Brasília, 1200-109 Lisboa", "description": "great club, incredible view.",
-    "image":"http://www.insidelisbon.com/wp-content/uploads/2015/05/IL_nightlife_dance_urban-beach1.jpg"},
-    { "id": 8, "name": "Place", "address": "N5A 450, Rua Dom Luís I, 1200 Lisboa", "description": "xxxx", 
-     "image":"https://media-cdn.tripadvisor.com/media/photo-s/0b/ac/57/37/2nd-floor-view.jpg"},
-    { "id": 9, "name": "Main", "address": " Av. 24 de Julho 68, 1200-869 Lisboa", "description": "cool club, environment 5", 
-     "image":"https://media-cdn.tripadvisor.com/media/photo-o/06/a2/43/e9/main.jpg" },
-    { "id": 10, "name": "Lust in Rio", "address": " Cais Sodré, 1200-109 Lisboa", "description": "oh yeaaah come", 
-     "image":"https://4.bp.blogspot.com/-ERePyFjB7FE/WKxlZ-ovvII/AAAAAAADKrs/9l3dqVdBkDwXwS92zHy_ocLQ0KMYqADyACLcB/s1600/IMG_9930.JPG" },
-    { "id": 11, "name": "Bosq", "address": " R. Rodrigues de Faria 103, 1300-501 Lisboa", "description": "very very nice", 
-     "image":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTm71ic3pEfzhIRN8cHR2Sw9Bfs__l0WoNVV1AjHmrRiDitVg50luhm1A" },
-    { "id": 12, "name": "Lux Frágil", "address": " Av. Infante D. Henrique, Armazém A, Cais da Pedra a Sta Apolónia, 1950-376 Lisboa", "description": "hard to get in.", 
-     "image":"https://1.bp.blogspot.com/-eusrjfmasBc/V0SxWNylGtI/AAAAAAAAJ7I/6XgaIvpYYwQTmcxu7h8rdx9bc6T4OquUQCLcB/s1600/lux%2B4.jpg" },
-    { "id": 13, "name": "Urban K Beach", "address": "Av. de Brasília, 1200-109 Lisboa", "description": "great club, incredible view.",
-    "image":"http://www.insidelisbon.com/wp-content/uploads/2015/05/IL_nightlife_dance_urban-beach1.jpg"},
-    { "id": 14, "name": "Place", "address": "N5A 450, Rua Dom Luís I, 1200 Lisboa", "description": "xxxx", 
-     "image":"https://media-cdn.tripadvisor.com/media/photo-s/0b/ac/57/37/2nd-floor-view.jpg"},
-    { "id": 15, "name": "Main", "address": " Av. 24 de Julho 68, 1200-869 Lisboa", "description": "cool club, environment 5", 
-     "image":"https://media-cdn.tripadvisor.com/media/photo-o/06/a2/43/e9/main.jpg" },
-    { "id": 16, "name": "Lust in Rio", "address": " Cais Sodré, 1200-109 Lisboa", "description": "oh yeaaah come", 
-     "image":"https://4.bp.blogspot.com/-ERePyFjB7FE/WKxlZ-ovvII/AAAAAAADKrs/9l3dqVdBkDwXwS92zHy_ocLQ0KMYqADyACLcB/s1600/IMG_9930.JPG" },
-    { "id": 17, "name": "Bosq", "address": " R. Rodrigues de Faria 103, 1300-501 Lisboa", "description": "very very nice", 
-     "image":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTm71ic3pEfzhIRN8cHR2Sw9Bfs__l0WoNVV1AjHmrRiDitVg50luhm1A" },
-    { "id": 18, "name": "Luxxxx Frágil", "address": " Av. Infante D. Henrique, Armazém A, Cais da Pedra a Sta Apolónia, 1950-376 Lisboa", "description": "hard to get in.", 
-     "image":"https://1.bp.blogspot.com/-eusrjfmasBc/V0SxWNylGtI/AAAAAAAAJ7I/6XgaIvpYYwQTmcxu7h8rdx9bc6T4OquUQCLcB/s1600/lux%2B4.jpg" }
-   
-  ],
-  "bars": [
-    { "id": 1, "name": "Foxtrot", "postId": 1 },
-    { "id": 2, "name": "MezCais", "postId": 1 }
-  ],
-  "logo":
-    {"id":1,"name":"NClubReverse", "image": "https://github.com/NClub0/Clubs/blob/master/LOGOREVERSE.jpg?raw=true"},
-   "profile": {
-    "name": "typicode"
-  }
+    "clubs": [{
+            "id": 1,
+            "name": "Urban K Beach",
+            "address": "Av. de Brasília, 1200-109 Lisboa",
+            "description": "great club, incredible view.",
+            "image": "http://www.insidelisbon.com/wp-content/uploads/2015/05/IL_nightlife_dance_urban-beach1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Place",
+            "address": "N5A 450, Rua Dom Luís I, 1200 Lisboa",
+            "description": "xxxx",
+            "image": "https://media-cdn.tripadvisor.com/media/photo-s/0b/ac/57/37/2nd-floor-view.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Main",
+            "address": " Av. 24 de Julho 68, 1200-869 Lisboa",
+            "description": "cool club, environment 5",
+            "image": "https://media-cdn.tripadvisor.com/media/photo-o/06/a2/43/e9/main.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Lust in Rio",
+            "address": " Cais Sodré, 1200-109 Lisboa",
+            "description": "oh yeaaah come",
+            "image": "https://4.bp.blogspot.com/-ERePyFjB7FE/WKxlZ-ovvII/AAAAAAADKrs/9l3dqVdBkDwXwS92zHy_ocLQ0KMYqADyACLcB/s1600/IMG_9930.JPG"
+        },
+        {
+            "id": 5,
+            "name": "Bosq",
+            "address": " R. Rodrigues de Faria 103, 1300-501 Lisboa",
+            "description": "very very nice",
+            "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTm71ic3pEfzhIRN8cHR2Sw9Bfs__l0WoNVV1AjHmrRiDitVg50luhm1A"
+        },
+        {
+            "id": 6,
+            "name": "Lux Frágil",
+            "address": " Av. Infante D. Henrique, Armazém A, Cais da Pedra a Sta Apolónia, 1950-376 Lisboa",
+            "description": "hard to get in.",
+            "image": "https://1.bp.blogspot.com/-eusrjfmasBc/V0SxWNylGtI/AAAAAAAAJ7I/6XgaIvpYYwQTmcxu7h8rdx9bc6T4OquUQCLcB/s1600/lux%2B4.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Urban K Beach",
+            "address": "Av. de Brasília, 1200-109 Lisboa",
+            "description": "great club, incredible view.",
+            "image": "http://www.insidelisbon.com/wp-content/uploads/2015/05/IL_nightlife_dance_urban-beach1.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Place",
+            "address": "N5A 450, Rua Dom Luís I, 1200 Lisboa",
+            "description": "xxxx",
+            "image": "https://media-cdn.tripadvisor.com/media/photo-s/0b/ac/57/37/2nd-floor-view.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Main",
+            "address": " Av. 24 de Julho 68, 1200-869 Lisboa",
+            "description": "cool club, environment 5",
+            "image": "https://media-cdn.tripadvisor.com/media/photo-o/06/a2/43/e9/main.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Lust in Rio",
+            "address": " Cais Sodré, 1200-109 Lisboa",
+            "description": "oh yeaaah come",
+            "image": "https://4.bp.blogspot.com/-ERePyFjB7FE/WKxlZ-ovvII/AAAAAAADKrs/9l3dqVdBkDwXwS92zHy_ocLQ0KMYqADyACLcB/s1600/IMG_9930.JPG"
+        },
+        {
+            "id": 11,
+            "name": "Bosq",
+            "address": " R. Rodrigues de Faria 103, 1300-501 Lisboa",
+            "description": "very very nice",
+            "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTm71ic3pEfzhIRN8cHR2Sw9Bfs__l0WoNVV1AjHmrRiDitVg50luhm1A"
+        },
+        {
+            "id": 12,
+            "name": "Lux Frágil",
+            "address": " Av. Infante D. Henrique, Armazém A, Cais da Pedra a Sta Apolónia, 1950-376 Lisboa",
+            "description": "hard to get in.",
+            "image": "https://1.bp.blogspot.com/-eusrjfmasBc/V0SxWNylGtI/AAAAAAAAJ7I/6XgaIvpYYwQTmcxu7h8rdx9bc6T4OquUQCLcB/s1600/lux%2B4.jpg"
+        },
+        {
+            "id": 13,
+            "name": "Urban K Beach",
+            "address": "Av. de Brasília, 1200-109 Lisboa",
+            "description": "great club, incredible view.",
+            "image": "http://www.insidelisbon.com/wp-content/uploads/2015/05/IL_nightlife_dance_urban-beach1.jpg"
+        },
+        {
+            "id": 14,
+            "name": "Place",
+            "address": "N5A 450, Rua Dom Luís I, 1200 Lisboa",
+            "description": "xxxx",
+            "image": "https://media-cdn.tripadvisor.com/media/photo-s/0b/ac/57/37/2nd-floor-view.jpg"
+        },
+        {
+            "id": 15,
+            "name": "Main",
+            "address": " Av. 24 de Julho 68, 1200-869 Lisboa",
+            "description": "cool club, environment 5",
+            "image": "https://media-cdn.tripadvisor.com/media/photo-o/06/a2/43/e9/main.jpg"
+        },
+        {
+            "id": 16,
+            "name": "Lust in Rio",
+            "address": " Cais Sodré, 1200-109 Lisboa",
+            "description": "oh yeaaah come",
+            "image": "https://4.bp.blogspot.com/-ERePyFjB7FE/WKxlZ-ovvII/AAAAAAADKrs/9l3dqVdBkDwXwS92zHy_ocLQ0KMYqADyACLcB/s1600/IMG_9930.JPG"
+        },
+        {
+            "id": 17,
+            "name": "Bosq",
+            "address": " R. Rodrigues de Faria 103, 1300-501 Lisboa",
+            "description": "very very nice",
+            "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTm71ic3pEfzhIRN8cHR2Sw9Bfs__l0WoNVV1AjHmrRiDitVg50luhm1A"
+        },
+        {
+            "id": 18,
+            "name": "Luxxxx Frágil",
+            "address": " Av. Infante D. Henrique, Armazém A, Cais da Pedra a Sta Apolónia, 1950-376 Lisboa",
+            "description": "hard to get in.",
+            "image": "https://1.bp.blogspot.com/-eusrjfmasBc/V0SxWNylGtI/AAAAAAAAJ7I/6XgaIvpYYwQTmcxu7h8rdx9bc6T4OquUQCLcB/s1600/lux%2B4.jpg"
+        }
+    ],
+    "bars": [
+        { "id": 1, "name": "Foxtrot", "postId": 1 },
+        { "id": 2, "name": "MezCais", "postId": 1 }
+    ],
+    "logo": { "id": 1, "name": "NClubReverse", "image": "https://github.com/NClub0/Clubs/blob/master/LOGOREVERSE.jpg?raw=true" },
+    "profile": {
+        "name": "typicode"
+    }
 }
